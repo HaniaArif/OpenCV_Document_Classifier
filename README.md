@@ -23,5 +23,5 @@ The current folder contains only a few sample files in the folder called `full_c
       opencv-python
       numpy
 
-**Note: ** Dependencies had been added in the jupyter notebook for easy run.
+**Note:** Dependencies had been added in the jupyter notebook for easy run.
      
